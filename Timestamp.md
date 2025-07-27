@@ -14,8 +14,8 @@ This document provides a verifiable timestamp record for the public disclosure o
 | **Design Development** | 2024-07-03 | - | Naming and branding established |
 | **Website Launch** | 2024-07-10 | - | Domain registration and initial web presence |
 | **Patent Information Published** | 2025-07-08 | - | Open patent declaration posted on website |
-| **GitHub Repository Created** | [To be filled when created] | - | This repository establishment |
-| **Complete Patent Disclosure** | [Current Date] | [Current Time] | Full technical documentation published |
+| **GitHub Repository Created** | 2025-07-27 | - | This repository establishment |
+| **Complete Patent Disclosure** | 2025-07-27 | 17:00PM (EST) | Full technical documentation published |
 
 ## Document Hashes
 
@@ -93,8 +93,8 @@ This timestamp record serves as evidence of:
 
 The undersigned hereby declares that the information contained in this timestamp record is true and accurate to the best of their knowledge:
 
-**Name:** [Your Name]  
-**Date:** [Current Date]  
+**Name:**Samuel Gordon  
+**Date:** 2025-07-27
 **Digital Signature:** [Optional: GPG signature or similar]
 
 ---
